@@ -1,5 +1,5 @@
 {
-  "name": "Voting_App",
+  "name": "Voting",
   "version": "1.0.0",
   "description": "A Voting Platform where everyone can vote",
   "main": "index.js",
@@ -18,14 +18,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/AniketJain17/Voting_App.git"
+    "url": "git+ssh://git@github.com/ALPHAWINS02/voting.git"
   },
-  "author": "Aniket Jain",
+  "author": "Yash Yadav",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/AniketJain17/Voting_App/issues"
+    "url": "https://github.com/ALPHAWINS02/voting/issues"
   },
-  "homepage": "https://github.com/AniketJain17/Voting_App#readme",
+  "homepage":"https://github.com/ALPHAWINS02/voting#readme",
   "devDependencies": {
     "cheerio": "^1.0.0-rc.12",
     "eslint": "^8.30.0",
