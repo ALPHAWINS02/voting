@@ -18,14 +18,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/ALPHAWINS02/voting.git"
+    "url": "git+ssh://git@github.com/AniketJain17/Voting_App.gitt"
   },
-  "author": "Yash Yadav",
+  "author": "Aniket Jain",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/ALPHAWINS02/voting/issues"
+    "url": "https://github.com/AniketJain17/Voting_App/issues"
   },
-  "homepage":"https://github.com/ALPHAWINS02/voting#readme",
+  "homepage": "https://github.com/AniketJain17/Voting_App#readme",
   "devDependencies": {
     "cheerio": "^1.0.0-rc.12",
     "eslint": "^8.30.0",
